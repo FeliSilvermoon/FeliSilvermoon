@@ -1,6 +1,6 @@
-🌱 - Hi, I’m a student interested in studying software development and design
-🤍 - I'm currently studying A-level Drama, Mathematics and Computer Science
-🍃 - Pronouns: she/her
+🌱 - Hi, I’m a student interested in studying software development and design <br/>
+🤍 - I'm currently studying A-level Drama, Mathematics and Computer Science <br/>
+🍃 - Pronouns: she/her <br/>
 📖 - Fun fact: I'm writing a book :)
 
 <!---
